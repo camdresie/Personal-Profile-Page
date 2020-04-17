@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: rgb(161, 156, 156);
 }
 a:hover {
   color: #6633ff;
@@ -85,7 +85,7 @@ header .profile-image:hover {
   margin: 10px auto;
 } 
 .location {
-  background-color: #222;
+  background-color: hsla(0, 0%, 0%, .75);
   color: #c57907;
 }
 .card {
