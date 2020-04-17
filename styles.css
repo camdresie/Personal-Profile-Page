@@ -18,7 +18,7 @@ a {
   color: rgb(161, 156, 156);
 }
 a:hover {
-  color: #6633ff;
+  color: #013b15;
 }
 
 /* Section Styles */
@@ -71,7 +71,7 @@ header .profile-image {
   height: 200px;
   border-radius: 50%;
   border: 3px solid white;
-  transition: all .5s;
+  transition: all 1s;
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
